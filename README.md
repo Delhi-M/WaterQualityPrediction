@@ -1,1 +1,1 @@
-# WaterQualityPrediction
+Under the relationship of dataset by check after the Null values in the datasets and used the StandardScalar for the model training and testing for the understanding and using the Regressoion & Classification for the Model.
